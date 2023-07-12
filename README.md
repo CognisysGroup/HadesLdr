@@ -8,3 +8,7 @@ Shellcode Loader Implementing :
 
 https://github.com/CognisysGroup/HadesLdr/assets/123980007/38892f75-386c-4c18-97af-57f6024d4f86
 
+### References :
+https://github.com/am0nsec/HellsGate/tree/master
+https://cocomelonc.github.io/tutorial/2022/04/02/malware-injection-18.html
+https://blog.sektor7.net/#!res/2021/halosgate.md
