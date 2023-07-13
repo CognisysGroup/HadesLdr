@@ -1,4 +1,7 @@
 # HadesLdr
+
+A demo of the relevant blog post: [Combining Indirect Dynamic Syscalls and API Hashing](https://labs.cognisys.group/posts/Combining-Indirect-Dynamic-Syscalls-and-API-Hashing/)
+
 Shellcode Loader Implementing :
 - Indirect Dynamic Syscall by resolving the SSN and the address pointing to a backed syscall instruction dynamically.
 - API Hashing by resolving modules & APIs base address from PEB by hashes
